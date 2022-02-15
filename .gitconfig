@@ -1,0 +1,7 @@
+[user]
+	email = danilomaldos.6@gmail.com
+	name = dyudyuuu
+[pull]
+	rebase = true
+[rebase]
+	autoStash = true
